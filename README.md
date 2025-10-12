@@ -28,6 +28,6 @@
 
 ## 🔹 Me
 
-![Коната в Adidas]([https://media.tenor.com/XRk8tZc5N1IAAAAC/konata-izumi-adidas.gif](https://media1.tenor.com/m/qXdWe4AH7qwAAAAd/konata-izumi-adidas.gif))
+![Коната в Adidas](assets/konata.gif)
 
 
