@@ -22,7 +22,7 @@
 
 ## 🔹 Контакты
 
-- Telegram / Discord: `@Fonihm`  
+- Discord: `@Fonihm`  
 
 ---
 
