@@ -28,6 +28,7 @@
 
 ## 🔹 Me
 
-![Коната в Adidas](assets/konata.gif)
+![Коната в Adidas](tenor.gif)
+
 
 
