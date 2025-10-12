@@ -28,5 +28,4 @@
 
 ## 🔹 Статистика
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fonihm&theme=dark)](https://github.com/Fonihm)
-
+![Уютная анимация](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
