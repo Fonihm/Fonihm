@@ -28,4 +28,5 @@
 
 ## 🔹 Статистика
 
-![Коната в Adidas](https://media.tenor.com/someGIFid.gif)
+![Коната в Adidas](https://media.tenor.com/XRk8tZc5N1IAAAAC/konata-izumi-adidas.gif)
+
