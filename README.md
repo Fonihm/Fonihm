@@ -28,4 +28,5 @@
 
 ## 🔹 Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fonihm&layout=compact&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fonihm&theme=dark)](https://github.com/Fonihm)
+
