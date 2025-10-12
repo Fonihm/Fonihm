@@ -28,4 +28,4 @@
 
 ## 🔹 Статистика
 
-![Уютная анимация](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Konata Izumi](https://media.tenor.com/images/3f5ed74f270c7c3d2b6d07c8d0e4c5f0/tenor.gif)
