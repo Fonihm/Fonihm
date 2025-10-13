@@ -26,7 +26,7 @@
 
 ---
 
-## 🔹 Me
+## 🔹 Rezedka
 
 ![Коната в Adidas](tenor.gif)
 
