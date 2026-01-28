@@ -1,15 +1,15 @@
-## 🍵 🔹 Мои проекты
+## 🍵 🔹 My Projects
 
-- [**AxeM_Hitbox**](https://github.com/Fonihm/AxeM_Hitbox) – Модуль хитбоксов с режимами single/cooldown/always, визуализацией и игнор листом
+* [**AxeM_Hitbox**](https://github.com/Fonihm/AxeM_Hitbox) – Hitbox module with `single`/`cooldown`/`always` modes, visual debug, and ignore list support
 
 ---
 
-## 🔹 Контакты
+## 🔹 Contacts
 
-- Discord: `axemfoni`  
+* Discord: `axemfoni`
 
 ---
 
 ## 🔹 Rezedka
 
-![Коната в Adidas](tenor.gif)
+![Konata in Adidas](tenor.gif)
