@@ -14,18 +14,18 @@
 
 <p align="center">
   <a href="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_САЙТ">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-422C1A?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ТГ">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-F7931A?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-422C1A?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonihm&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&title_color=BB86FC&text_color=FFFFFF&bg_color=1a1b26" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonihm&layout=compact&langs_count=5&bg_color=FDF6E3&title_color=A0522D&text_color=422C1A&icon_color=F7931A&hide_border=true" alt="Top Langs">
 </p>
