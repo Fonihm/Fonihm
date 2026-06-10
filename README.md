@@ -27,5 +27,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fonihm&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB86FC&icon_color=BB86FC" alt="Foni's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fonihm&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Foni's Streak">
 </p>
