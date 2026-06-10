@@ -27,7 +27,5 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Fonihm/Fonihm">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFonihm%2FFonihm&count_bg=%23BB86FC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonihm&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&title_color=BB86FC&text_color=FFFFFF&bg_color=1a1b26" alt="Top Langs">
 </p>
