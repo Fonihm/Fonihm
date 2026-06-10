@@ -27,5 +27,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fonihm&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Foni's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonihm&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Langs">
 </p>
