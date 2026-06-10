@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fonihm/Fonihm/blob/main/Senko.gif?raw=true" alt="Banner" width="60%">
+  <img src="https://github.com/Fonihm/Fonihm/blob/main/Senko.gif?raw=true" alt="Banner" width="42%">
 </p>
 
 <h1 align="center">hi, i'm Foni!</h1>
