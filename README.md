@@ -7,7 +7,8 @@
 <h3 align="center">welcome to my profile :3</h3>
 
 <p align="center">
-  i'm a developer focusing on Lua, game dev and building cool stuff～☆
+  i'm a developer focusing on C, Python, and Lua/Luau. <br>
+  love game dev and building cool stuff ～☆
 </p>
 
 <br>
