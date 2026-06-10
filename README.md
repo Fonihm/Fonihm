@@ -25,7 +25,6 @@
   </a>
 </p>
 
-<h3 align="center">🛠 My Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
