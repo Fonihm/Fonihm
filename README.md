@@ -15,9 +15,3 @@
   <strong><a href="ССЫЛКА_НА_ТВОЙ_ТЕЛЕГРАМ">Telegram</a></strong> |
   <strong><a href="ССЫЛКА_НА_ТВОЙ_DISCORD">Discord</a></strong>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fonihm&show_icons=true&theme=tokyonight&hide_border=true" alt="stats">
-</p>
