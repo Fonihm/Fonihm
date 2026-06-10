@@ -20,7 +20,7 @@
   <a href="https://t.me/Fonihm">
     <img src="https://img.shields.io/badge/Telegram-F7931A?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_DISCORD">
+  <a href="https://discord.gg/735VGhyV">
     <img src="https://img.shields.io/badge/Discord-422C1A?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
