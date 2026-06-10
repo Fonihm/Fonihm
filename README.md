@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/Discord-422C1A?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
