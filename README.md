@@ -4,7 +4,7 @@
 
 <h1 align="center">hi, i'm Foni!</h1>
 
-<h3 align="center">welcome to my profile :3</h3>
+<h3 align="center">welcome to my profile ಥ_ಥ</h3>
 
 <p align="center">
   i'm a developer focusing on C, Python, and Lua/Luau. <br>
